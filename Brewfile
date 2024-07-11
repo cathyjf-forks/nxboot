@@ -1,4 +1,5 @@
 brew "dpkg"
 brew "ldid"
 brew "jq"
+brew "ruby"
 brew "yj"
